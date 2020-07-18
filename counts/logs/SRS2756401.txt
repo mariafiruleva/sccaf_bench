@@ -1,0 +1,80 @@
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/neighbors/__init__.py:121: FutureWarning: This location for 'distances' is deprecated. It has been moved to .obsp[distances], and will not be accesible here in a future version of anndata.
+  adata.uns['neighbors']['distances'] = neighbors.distances
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/neighbors/__init__.py:122: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adata.uns['neighbors']['connectivities'] = neighbors.connectivities
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/sklearn/model_selection/_split.py:672: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  % (min_groups, self.n_splits)), UserWarning)
+/home/marina/anaconda3/envs/sccaf/lib/python3.6/site-packages/scanpy/tools/_louvain.py:107: FutureWarning: This location for 'connectivities' is deprecated. It has been moved to .obsp[connectivities], and will not be accesible here in a future version of anndata.
+  adjacency = adata.uns['neighbors']['connectivities']
+... storing 'L0.8_Round0_self-projection' as categorical
+... storing 'L0.8_Round1' as categorical
+... storing 'L0.8_Round1_self-projection' as categorical
+... storing 'L0.8_result' as categorical
